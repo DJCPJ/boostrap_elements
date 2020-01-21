@@ -1,2 +1,2 @@
 # boostrap_elements
-Bootstrap Elements 
+Bootstrap Elements, Componets, and Styling 
